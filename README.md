@@ -1,2 +1,2 @@
-# STATS-1
+# Fast Food Restaurants Market Analysis
 Advanced statistical methods and applications
